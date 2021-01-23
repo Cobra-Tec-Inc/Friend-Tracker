@@ -1,0 +1,10 @@
+Name : Isaiah
+Age : 13
+Birthday : May 3
+Fav Color  : Blue
+Height : 5ft 8in
+Sport : Soccer
+Skin Color : Dark brown
+Hair Color : Black
+Age : 13
+Age : 13
